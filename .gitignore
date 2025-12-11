@@ -1,0 +1,29 @@
+.venv
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+
+# VS Code
+.vscode/
+
+# Data
+data/
+*.csv
+*.json
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.log
+*.pid
+*.sock
+docker-compose.override.yml
+
+# MLflow
+mlruns/
