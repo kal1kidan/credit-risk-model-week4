@@ -1,0 +1,27 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# ML & Model Management
+xgboost
+lightgbm
+mlflow
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Feature Engineering
+xverse
+woe
+
+# Testing & Linting
+pytest
+flake8
+
+# Optional for Jupyter notebooks
+jupyter
